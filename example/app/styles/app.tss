@@ -1,0 +1,4770 @@
+".mi-3d-rotation": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue84d"
+}
+".mi-access-alarm": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue190"
+}
+".mi-access-alarms": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue191"
+}
+".mi-access-time": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue192"
+}
+".mi-accessibility": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue84e"
+}
+".mi-account-balance": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue84f"
+}
+".mi-account-balance-wallet": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue850"
+}
+".mi-account-box": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue851"
+}
+".mi-account-circle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue853"
+}
+".mi-adb": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue60e"
+}
+".mi-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue145"
+}
+".mi-add-alarm": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue193"
+}
+".mi-add-alert": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue003"
+}
+".mi-add-box": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue146"
+}
+".mi-add-circle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue147"
+}
+".mi-add-circle-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue148"
+}
+".mi-add-shopping-cart": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue854"
+}
+".mi-add-to-photos": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue39d"
+}
+".mi-adjust": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue39e"
+}
+".mi-airline-seat-flat": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue630"
+}
+".mi-airline-seat-flat-angled": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue631"
+}
+".mi-airline-seat-individual-suite": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue632"
+}
+".mi-airline-seat-legroom-extra": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue633"
+}
+".mi-airline-seat-legroom-normal": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue634"
+}
+".mi-airline-seat-legroom-reduced": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue635"
+}
+".mi-airline-seat-recline-extra": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue636"
+}
+".mi-airline-seat-recline-normal": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue637"
+}
+".mi-airplanemode-active": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue195"
+}
+".mi-airplanemode-inactive": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue194"
+}
+".mi-airplay": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue055"
+}
+".mi-alarm": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue855"
+}
+".mi-alarm-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue856"
+}
+".mi-alarm-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue857"
+}
+".mi-alarm-on": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue858"
+}
+".mi-album": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue019"
+}
+".mi-android": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue859"
+}
+".mi-announcement": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue85a"
+}
+".mi-apps": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5c3"
+}
+".mi-archive": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue149"
+}
+".mi-arrow-back": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5c4"
+}
+".mi-arrow-drop-down": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5c5"
+}
+".mi-arrow-drop-down-circle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5c6"
+}
+".mi-arrow-drop-up": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5c7"
+}
+".mi-arrow-forward": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5c8"
+}
+".mi-aspect-ratio": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue85b"
+}
+".mi-assessment": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue85c"
+}
+".mi-assignment": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue85d"
+}
+".mi-assignment-ind": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue85e"
+}
+".mi-assignment-late": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue85f"
+}
+".mi-assignment-return": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue860"
+}
+".mi-assignment-returned": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue861"
+}
+".mi-assignment-turned-in": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue862"
+}
+".mi-assistant": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue39f"
+}
+".mi-assistant-photo": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a0"
+}
+".mi-attach-file": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue226"
+}
+".mi-attach-money": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue227"
+}
+".mi-attachment": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2bc"
+}
+".mi-audiotrack": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a1"
+}
+".mi-autorenew": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue863"
+}
+".mi-av-timer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue01b"
+}
+".mi-backspace": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue14a"
+}
+".mi-backup": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue864"
+}
+".mi-battery-alert": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue19c"
+}
+".mi-battery-charging-full": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1a3"
+}
+".mi-battery-full": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1a4"
+}
+".mi-battery-std": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1a5"
+}
+".mi-battery-unknown": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1a6"
+}
+".mi-beenhere": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue52d"
+}
+".mi-block": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue14b"
+}
+".mi-bluetooth": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1a7"
+}
+".mi-bluetooth-audio": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue60f"
+}
+".mi-bluetooth-connected": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1a8"
+}
+".mi-bluetooth-disabled": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1a9"
+}
+".mi-bluetooth-searching": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1aa"
+}
+".mi-blur-circular": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a2"
+}
+".mi-blur-linear": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a3"
+}
+".mi-blur-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a4"
+}
+".mi-blur-on": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a5"
+}
+".mi-book": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue865"
+}
+".mi-bookmark": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue866"
+}
+".mi-bookmark-border": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue867"
+}
+".mi-border-all": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue228"
+}
+".mi-border-bottom": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue229"
+}
+".mi-border-clear": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue22a"
+}
+".mi-border-color": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue22b"
+}
+".mi-border-horizontal": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue22c"
+}
+".mi-border-inner": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue22d"
+}
+".mi-border-left": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue22e"
+}
+".mi-border-outer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue22f"
+}
+".mi-border-right": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue230"
+}
+".mi-border-style": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue231"
+}
+".mi-border-top": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue232"
+}
+".mi-border-vertical": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue233"
+}
+".mi-brightness-1": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a6"
+}
+".mi-brightness-2": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a7"
+}
+".mi-brightness-3": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a8"
+}
+".mi-brightness-4": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3a9"
+}
+".mi-brightness-5": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3aa"
+}
+".mi-brightness-6": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ab"
+}
+".mi-brightness-7": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ac"
+}
+".mi-brightness-auto": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1ab"
+}
+".mi-brightness-high": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1ac"
+}
+".mi-brightness-low": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1ad"
+}
+".mi-brightness-medium": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1ae"
+}
+".mi-broken-image": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ad"
+}
+".mi-brush": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ae"
+}
+".mi-bug-report": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue868"
+}
+".mi-build": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue869"
+}
+".mi-business": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0af"
+}
+".mi-cached": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue86a"
+}
+".mi-cake": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7e9"
+}
+".mi-call": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b0"
+}
+".mi-call-end": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b1"
+}
+".mi-call-made": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b2"
+}
+".mi-call-merge": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b3"
+}
+".mi-call-missed": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b4"
+}
+".mi-call-received": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b5"
+}
+".mi-call-split": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b6"
+}
+".mi-camera": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3af"
+}
+".mi-camera-alt": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b0"
+}
+".mi-camera-enhance": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8fc"
+}
+".mi-camera-front": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b1"
+}
+".mi-camera-rear": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b2"
+}
+".mi-camera-roll": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b3"
+}
+".mi-cancel": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5c9"
+}
+".mi-card-giftcard": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f6"
+}
+".mi-card-membership": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f7"
+}
+".mi-card-travel": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f8"
+}
+".mi-cast": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue307"
+}
+".mi-cast-connected": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue308"
+}
+".mi-center-focus-strong": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b4"
+}
+".mi-center-focus-weak": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b5"
+}
+".mi-change-history": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue86b"
+}
+".mi-chat": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b7"
+}
+".mi-chat-bubble": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0ca"
+}
+".mi-chat-bubble-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0cb"
+}
+".mi-check": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5ca"
+}
+".mi-check-box": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue834"
+}
+".mi-check-box-outline-blank": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue835"
+}
+".mi-check-circle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue86c"
+}
+".mi-chevron-left": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5cb"
+}
+".mi-chevron-right": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5cc"
+}
+".mi-chrome-reader-mode": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue86d"
+}
+".mi-class": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue86e"
+}
+".mi-clear": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue14c"
+}
+".mi-clear-all": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b8"
+}
+".mi-close": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5cd"
+}
+".mi-closed-caption": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue01c"
+}
+".mi-cloud": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2bd"
+}
+".mi-cloud-circle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2be"
+}
+".mi-cloud-done": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2bf"
+}
+".mi-cloud-download": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c0"
+}
+".mi-cloud-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c1"
+}
+".mi-cloud-queue": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c2"
+}
+".mi-cloud-upload": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c3"
+}
+".mi-code": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue86f"
+}
+".mi-collections": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b6"
+}
+".mi-collections-bookmark": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue431"
+}
+".mi-color-lens": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b7"
+}
+".mi-colorize": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b8"
+}
+".mi-comment": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0b9"
+}
+".mi-compare": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3b9"
+}
+".mi-computer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue30a"
+}
+".mi-confirmation-number": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue638"
+}
+".mi-contact-phone": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0cf"
+}
+".mi-contacts": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0ba"
+}
+".mi-content-copy": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue14d"
+}
+".mi-content-cut": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue14e"
+}
+".mi-content-paste": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue14f"
+}
+".mi-control-point": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ba"
+}
+".mi-control-point-duplicate": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3bb"
+}
+".mi-create": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue150"
+}
+".mi-credit-card": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue870"
+}
+".mi-crop": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3be"
+}
+".mi-crop-16-9": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3bc"
+}
+".mi-crop-3-2": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3bd"
+}
+".mi-crop-5-4": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3bf"
+}
+".mi-crop-7-5": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c0"
+}
+".mi-crop-din": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c1"
+}
+".mi-crop-free": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c2"
+}
+".mi-crop-landscape": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c3"
+}
+".mi-crop-original": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c4"
+}
+".mi-crop-portrait": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c5"
+}
+".mi-crop-square": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c6"
+}
+".mi-dashboard": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue871"
+}
+".mi-data-usage": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1af"
+}
+".mi-dehaze": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c7"
+}
+".mi-delete": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue872"
+}
+".mi-description": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue873"
+}
+".mi-desktop-mac": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue30b"
+}
+".mi-desktop-windows": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue30c"
+}
+".mi-details": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c8"
+}
+".mi-developer-board": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue30d"
+}
+".mi-developer-mode": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b0"
+}
+".mi-device-hub": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue335"
+}
+".mi-devices": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b1"
+}
+".mi-dialer-sip": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0bb"
+}
+".mi-dialpad": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0bc"
+}
+".mi-directions": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue52e"
+}
+".mi-directions-bike": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue52f"
+}
+".mi-directions-boat": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue532"
+}
+".mi-directions-bus": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue530"
+}
+".mi-directions-car": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue531"
+}
+".mi-directions-railway": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue534"
+}
+".mi-directions-run": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue566"
+}
+".mi-directions-subway": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue533"
+}
+".mi-directions-transit": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue535"
+}
+".mi-directions-walk": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue536"
+}
+".mi-disc-full": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue610"
+}
+".mi-dns": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue875"
+}
+".mi-do-not-disturb": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue612"
+}
+".mi-do-not-disturb-alt": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue611"
+}
+".mi-dock": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue30e"
+}
+".mi-domain": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7ee"
+}
+".mi-done": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue876"
+}
+".mi-done-all": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue877"
+}
+".mi-drafts": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue151"
+}
+".mi-drive-eta": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue613"
+}
+".mi-dvr": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b2"
+}
+".mi-edit": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3c9"
+}
+".mi-eject": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8fb"
+}
+".mi-email": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0be"
+}
+".mi-equalizer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue01d"
+}
+".mi-error": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue000"
+}
+".mi-error-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue001"
+}
+".mi-event": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue878"
+}
+".mi-event-available": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue614"
+}
+".mi-event-busy": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue615"
+}
+".mi-event-note": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue616"
+}
+".mi-event-seat": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue903"
+}
+".mi-exit-to-app": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue879"
+}
+".mi-expand-less": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5ce"
+}
+".mi-expand-more": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5cf"
+}
+".mi-explicit": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue01e"
+}
+".mi-explore": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue87a"
+}
+".mi-exposure": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ca"
+}
+".mi-exposure-neg-1": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3cb"
+}
+".mi-exposure-neg-2": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3cc"
+}
+".mi-exposure-plus-1": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3cd"
+}
+".mi-exposure-plus-2": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ce"
+}
+".mi-exposure-zero": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3cf"
+}
+".mi-extension": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue87b"
+}
+".mi-face": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue87c"
+}
+".mi-fast-forward": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue01f"
+}
+".mi-fast-rewind": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue020"
+}
+".mi-favorite": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue87d"
+}
+".mi-favorite-border": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue87e"
+}
+".mi-feedback": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue87f"
+}
+".mi-file-download": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c4"
+}
+".mi-file-upload": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c6"
+}
+".mi-filter": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d3"
+}
+".mi-filter-1": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d0"
+}
+".mi-filter-2": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d1"
+}
+".mi-filter-3": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d2"
+}
+".mi-filter-4": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d4"
+}
+".mi-filter-5": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d5"
+}
+".mi-filter-6": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d6"
+}
+".mi-filter-7": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d7"
+}
+".mi-filter-8": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d8"
+}
+".mi-filter-9": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3d9"
+}
+".mi-filter-9-plus": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3da"
+}
+".mi-filter-b-and-w": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3db"
+}
+".mi-filter-center-focus": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3dc"
+}
+".mi-filter-drama": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3dd"
+}
+".mi-filter-frames": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3de"
+}
+".mi-filter-hdr": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3df"
+}
+".mi-filter-list": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue152"
+}
+".mi-filter-none": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e0"
+}
+".mi-filter-tilt-shift": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e2"
+}
+".mi-filter-vintage": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e3"
+}
+".mi-find-in-page": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue880"
+}
+".mi-find-replace": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue881"
+}
+".mi-flag": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue153"
+}
+".mi-flare": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e4"
+}
+".mi-flash-auto": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e5"
+}
+".mi-flash-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e6"
+}
+".mi-flash-on": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e7"
+}
+".mi-flight": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue539"
+}
+".mi-flight-land": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue904"
+}
+".mi-flight-takeoff": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue905"
+}
+".mi-flip": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e8"
+}
+".mi-flip-to-back": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue882"
+}
+".mi-flip-to-front": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue883"
+}
+".mi-folder": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c7"
+}
+".mi-folder-open": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c8"
+}
+".mi-folder-shared": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue2c9"
+}
+".mi-folder-special": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue617"
+}
+".mi-font-download": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue167"
+}
+".mi-format-align-center": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue234"
+}
+".mi-format-align-justify": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue235"
+}
+".mi-format-align-left": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue236"
+}
+".mi-format-align-right": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue237"
+}
+".mi-format-bold": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue238"
+}
+".mi-format-clear": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue239"
+}
+".mi-format-color-fill": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue23a"
+}
+".mi-format-color-reset": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue23b"
+}
+".mi-format-color-text": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue23c"
+}
+".mi-format-indent-decrease": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue23d"
+}
+".mi-format-indent-increase": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue23e"
+}
+".mi-format-italic": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue23f"
+}
+".mi-format-line-spacing": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue240"
+}
+".mi-format-list-bulleted": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue241"
+}
+".mi-format-list-numbered": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue242"
+}
+".mi-format-paint": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue243"
+}
+".mi-format-quote": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue244"
+}
+".mi-format-size": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue245"
+}
+".mi-format-strikethrough": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue246"
+}
+".mi-format-textdirection-l-to-r": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue247"
+}
+".mi-format-textdirection-r-to-l": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue248"
+}
+".mi-format-underlined": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue249"
+}
+".mi-forum": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0bf"
+}
+".mi-forward": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue154"
+}
+".mi-forward-10": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue056"
+}
+".mi-forward-30": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue057"
+}
+".mi-forward-5": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue058"
+}
+".mi-fullscreen": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d0"
+}
+".mi-fullscreen-exit": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d1"
+}
+".mi-functions": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue24a"
+}
+".mi-gamepad": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue30f"
+}
+".mi-games": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue021"
+}
+".mi-gesture": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue155"
+}
+".mi-get-app": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue884"
+}
+".mi-gif": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue908"
+}
+".mi-gps-fixed": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b3"
+}
+".mi-gps-not-fixed": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b4"
+}
+".mi-gps-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b5"
+}
+".mi-grade": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue885"
+}
+".mi-gradient": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3e9"
+}
+".mi-grain": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ea"
+}
+".mi-graphic-eq": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b8"
+}
+".mi-grid-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3eb"
+}
+".mi-grid-on": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ec"
+}
+".mi-group": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7ef"
+}
+".mi-group-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f0"
+}
+".mi-group-work": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue886"
+}
+".mi-hd": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue052"
+}
+".mi-hdr-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ed"
+}
+".mi-hdr-on": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ee"
+}
+".mi-hdr-strong": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f1"
+}
+".mi-hdr-weak": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f2"
+}
+".mi-headset": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue310"
+}
+".mi-headset-mic": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue311"
+}
+".mi-healing": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f3"
+}
+".mi-hearing": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue023"
+}
+".mi-help": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue887"
+}
+".mi-help-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8fd"
+}
+".mi-high-quality": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue024"
+}
+".mi-highlight-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue888"
+}
+".mi-history": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue889"
+}
+".mi-home": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue88a"
+}
+".mi-hotel": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue53a"
+}
+".mi-hourglass-empty": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue88b"
+}
+".mi-hourglass-full": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue88c"
+}
+".mi-http": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue902"
+}
+".mi-https": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue88d"
+}
+".mi-image": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f4"
+}
+".mi-image-aspect-ratio": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f5"
+}
+".mi-import-export": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0c3"
+}
+".mi-inbox": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue156"
+}
+".mi-indeterminate-check-box": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue909"
+}
+".mi-info": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue88e"
+}
+".mi-info-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue88f"
+}
+".mi-input": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue890"
+}
+".mi-insert-chart": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue24b"
+}
+".mi-insert-comment": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue24c"
+}
+".mi-insert-drive-file": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue24d"
+}
+".mi-insert-emoticon": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue24e"
+}
+".mi-insert-invitation": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue24f"
+}
+".mi-insert-link": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue250"
+}
+".mi-insert-photo": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue251"
+}
+".mi-invert-colors": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue891"
+}
+".mi-invert-colors-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0c4"
+}
+".mi-iso": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f6"
+}
+".mi-keyboard": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue312"
+}
+".mi-keyboard-arrow-down": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue313"
+}
+".mi-keyboard-arrow-left": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue314"
+}
+".mi-keyboard-arrow-right": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue315"
+}
+".mi-keyboard-arrow-up": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue316"
+}
+".mi-keyboard-backspace": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue317"
+}
+".mi-keyboard-capslock": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue318"
+}
+".mi-keyboard-hide": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue31a"
+}
+".mi-keyboard-return": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue31b"
+}
+".mi-keyboard-tab": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue31c"
+}
+".mi-keyboard-voice": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue31d"
+}
+".mi-label": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue892"
+}
+".mi-label-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue893"
+}
+".mi-landscape": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f7"
+}
+".mi-language": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue894"
+}
+".mi-laptop": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue31e"
+}
+".mi-laptop-chromebook": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue31f"
+}
+".mi-laptop-mac": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue320"
+}
+".mi-laptop-windows": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue321"
+}
+".mi-launch": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue895"
+}
+".mi-layers": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue53b"
+}
+".mi-layers-clear": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue53c"
+}
+".mi-leak-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f8"
+}
+".mi-leak-remove": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3f9"
+}
+".mi-lens": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3fa"
+}
+".mi-library-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue02e"
+}
+".mi-library-books": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue02f"
+}
+".mi-library-music": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue030"
+}
+".mi-link": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue157"
+}
+".mi-list": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue896"
+}
+".mi-live-help": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0c6"
+}
+".mi-live-tv": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue639"
+}
+".mi-local-activity": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue53f"
+}
+".mi-local-airport": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue53d"
+}
+".mi-local-atm": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue53e"
+}
+".mi-local-bar": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue540"
+}
+".mi-local-cafe": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue541"
+}
+".mi-local-car-wash": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue542"
+}
+".mi-local-convenience-store": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue543"
+}
+".mi-local-dining": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue556"
+}
+".mi-local-drink": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue544"
+}
+".mi-local-florist": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue545"
+}
+".mi-local-gas-station": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue546"
+}
+".mi-local-grocery-store": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue547"
+}
+".mi-local-hospital": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue548"
+}
+".mi-local-hotel": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue549"
+}
+".mi-local-laundry-service": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue54a"
+}
+".mi-local-library": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue54b"
+}
+".mi-local-mall": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue54c"
+}
+".mi-local-movies": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue54d"
+}
+".mi-local-offer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue54e"
+}
+".mi-local-parking": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue54f"
+}
+".mi-local-pharmacy": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue550"
+}
+".mi-local-phone": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue551"
+}
+".mi-local-pizza": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue552"
+}
+".mi-local-play": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue553"
+}
+".mi-local-post-office": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue554"
+}
+".mi-local-printshop": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue555"
+}
+".mi-local-see": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue557"
+}
+".mi-local-shipping": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue558"
+}
+".mi-local-taxi": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue559"
+}
+".mi-location-city": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f1"
+}
+".mi-location-disabled": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b6"
+}
+".mi-location-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0c7"
+}
+".mi-location-on": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0c8"
+}
+".mi-location-searching": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b7"
+}
+".mi-lock": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue897"
+}
+".mi-lock-open": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue898"
+}
+".mi-lock-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue899"
+}
+".mi-looks": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3fc"
+}
+".mi-looks-3": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3fb"
+}
+".mi-looks-4": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3fd"
+}
+".mi-looks-5": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3fe"
+}
+".mi-looks-6": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue3ff"
+}
+".mi-looks-one": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue400"
+}
+".mi-looks-two": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue401"
+}
+".mi-loop": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue028"
+}
+".mi-loupe": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue402"
+}
+".mi-loyalty": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue89a"
+}
+".mi-mail": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue158"
+}
+".mi-map": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue55b"
+}
+".mi-markunread": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue159"
+}
+".mi-markunread-mailbox": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue89b"
+}
+".mi-memory": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue322"
+}
+".mi-menu": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d2"
+}
+".mi-merge-type": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue252"
+}
+".mi-message": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0c9"
+}
+".mi-mic": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue029"
+}
+".mi-mic-none": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue02a"
+}
+".mi-mic-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue02b"
+}
+".mi-mms": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue618"
+}
+".mi-mode-comment": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue253"
+}
+".mi-mode-edit": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue254"
+}
+".mi-money-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue25c"
+}
+".mi-monochrome-photos": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue403"
+}
+".mi-mood": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f2"
+}
+".mi-mood-bad": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f3"
+}
+".mi-more": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue619"
+}
+".mi-more-horiz": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d3"
+}
+".mi-more-vert": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d4"
+}
+".mi-mouse": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue323"
+}
+".mi-movie": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue02c"
+}
+".mi-movie-creation": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue404"
+}
+".mi-music-note": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue405"
+}
+".mi-my-location": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue55c"
+}
+".mi-nature": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue406"
+}
+".mi-nature-people": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue407"
+}
+".mi-navigate-before": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue408"
+}
+".mi-navigate-next": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue409"
+}
+".mi-navigation": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue55d"
+}
+".mi-network-cell": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1b9"
+}
+".mi-network-locked": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue61a"
+}
+".mi-network-wifi": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1ba"
+}
+".mi-new-releases": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue031"
+}
+".mi-nfc": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1bb"
+}
+".mi-no-sim": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0cc"
+}
+".mi-not-interested": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue033"
+}
+".mi-note-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue89c"
+}
+".mi-notifications": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f4"
+}
+".mi-notifications-active": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f7"
+}
+".mi-notifications-none": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f5"
+}
+".mi-notifications-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f6"
+}
+".mi-notifications-paused": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f8"
+}
+".mi-offline-pin": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue90a"
+}
+".mi-ondemand-video": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue63a"
+}
+".mi-open-in-browser": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue89d"
+}
+".mi-open-in-new": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue89e"
+}
+".mi-open-with": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue89f"
+}
+".mi-pages": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7f9"
+}
+".mi-pageview": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a0"
+}
+".mi-palette": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue40a"
+}
+".mi-panorama": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue40b"
+}
+".mi-panorama-fish-eye": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue40c"
+}
+".mi-panorama-horizontal": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue40d"
+}
+".mi-panorama-vertical": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue40e"
+}
+".mi-panorama-wide-angle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue40f"
+}
+".mi-party-mode": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7fa"
+}
+".mi-pause": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue034"
+}
+".mi-pause-circle-filled": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue035"
+}
+".mi-pause-circle-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue036"
+}
+".mi-payment": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a1"
+}
+".mi-people": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7fb"
+}
+".mi-people-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7fc"
+}
+".mi-perm-camera-mic": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a2"
+}
+".mi-perm-contact-calendar": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a3"
+}
+".mi-perm-data-setting": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a4"
+}
+".mi-perm-device-information": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a5"
+}
+".mi-perm-identity": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a6"
+}
+".mi-perm-media": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a7"
+}
+".mi-perm-phone-msg": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a8"
+}
+".mi-perm-scan-wifi": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8a9"
+}
+".mi-person": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7fd"
+}
+".mi-person-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7fe"
+}
+".mi-person-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue7ff"
+}
+".mi-person-pin": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue55a"
+}
+".mi-personal-video": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue63b"
+}
+".mi-phone": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0cd"
+}
+".mi-phone-android": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue324"
+}
+".mi-phone-bluetooth-speaker": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue61b"
+}
+".mi-phone-forwarded": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue61c"
+}
+".mi-phone-in-talk": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue61d"
+}
+".mi-phone-iphone": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue325"
+}
+".mi-phone-locked": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue61e"
+}
+".mi-phone-missed": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue61f"
+}
+".mi-phone-paused": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue620"
+}
+".mi-phonelink": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue326"
+}
+".mi-phonelink-erase": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0db"
+}
+".mi-phonelink-lock": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0dc"
+}
+".mi-phonelink-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue327"
+}
+".mi-phonelink-ring": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0dd"
+}
+".mi-phonelink-setup": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0de"
+}
+".mi-photo": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue410"
+}
+".mi-photo-album": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue411"
+}
+".mi-photo-camera": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue412"
+}
+".mi-photo-library": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue413"
+}
+".mi-photo-size-select-actual": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue432"
+}
+".mi-photo-size-select-large": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue433"
+}
+".mi-photo-size-select-small": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue434"
+}
+".mi-picture-as-pdf": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue415"
+}
+".mi-picture-in-picture": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8aa"
+}
+".mi-pin-drop": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue55e"
+}
+".mi-place": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue55f"
+}
+".mi-play-arrow": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue037"
+}
+".mi-play-circle-filled": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue038"
+}
+".mi-play-circle-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue039"
+}
+".mi-play-for-work": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue906"
+}
+".mi-playlist-add": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue03b"
+}
+".mi-plus-one": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue800"
+}
+".mi-poll": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue801"
+}
+".mi-polymer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ab"
+}
+".mi-portable-wifi-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0ce"
+}
+".mi-portrait": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue416"
+}
+".mi-power": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue63c"
+}
+".mi-power-input": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue336"
+}
+".mi-power-settings-new": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ac"
+}
+".mi-present-to-all": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0df"
+}
+".mi-print": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ad"
+}
+".mi-public": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue80b"
+}
+".mi-publish": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue255"
+}
+".mi-query-builder": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ae"
+}
+".mi-question-answer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8af"
+}
+".mi-queue": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue03c"
+}
+".mi-queue-music": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue03d"
+}
+".mi-radio": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue03e"
+}
+".mi-radio-button-checked": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue837"
+}
+".mi-radio-button-unchecked": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue836"
+}
+".mi-rate-review": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue560"
+}
+".mi-receipt": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b0"
+}
+".mi-recent-actors": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue03f"
+}
+".mi-redeem": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b1"
+}
+".mi-redo": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue15a"
+}
+".mi-refresh": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d5"
+}
+".mi-remove": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue15b"
+}
+".mi-remove-circle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue15c"
+}
+".mi-remove-circle-outline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue15d"
+}
+".mi-remove-red-eye": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue417"
+}
+".mi-reorder": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8fe"
+}
+".mi-repeat": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue040"
+}
+".mi-repeat-one": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue041"
+}
+".mi-replay": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue042"
+}
+".mi-replay-10": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue059"
+}
+".mi-replay-30": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue05a"
+}
+".mi-replay-5": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue05b"
+}
+".mi-reply": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue15e"
+}
+".mi-reply-all": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue15f"
+}
+".mi-report": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue160"
+}
+".mi-report-problem": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b2"
+}
+".mi-restaurant-menu": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue561"
+}
+".mi-restore": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b3"
+}
+".mi-ring-volume": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d1"
+}
+".mi-room": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b4"
+}
+".mi-rotate-90-degrees-ccw": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue418"
+}
+".mi-rotate-left": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue419"
+}
+".mi-rotate-right": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue41a"
+}
+".mi-router": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue328"
+}
+".mi-satellite": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue562"
+}
+".mi-save": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue161"
+}
+".mi-scanner": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue329"
+}
+".mi-schedule": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b5"
+}
+".mi-school": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue80c"
+}
+".mi-screen-lock-landscape": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1be"
+}
+".mi-screen-lock-portrait": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1bf"
+}
+".mi-screen-lock-rotation": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1c0"
+}
+".mi-screen-rotation": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1c1"
+}
+".mi-sd-card": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue623"
+}
+".mi-sd-storage": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1c2"
+}
+".mi-search": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b6"
+}
+".mi-security": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue32a"
+}
+".mi-select-all": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue162"
+}
+".mi-send": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue163"
+}
+".mi-settings": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b8"
+}
+".mi-settings-applications": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8b9"
+}
+".mi-settings-backup-restore": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ba"
+}
+".mi-settings-bluetooth": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8bb"
+}
+".mi-settings-brightness": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8bd"
+}
+".mi-settings-cell": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8bc"
+}
+".mi-settings-ethernet": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8be"
+}
+".mi-settings-input-antenna": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8bf"
+}
+".mi-settings-input-component": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c0"
+}
+".mi-settings-input-composite": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c1"
+}
+".mi-settings-input-hdmi": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c2"
+}
+".mi-settings-input-svideo": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c3"
+}
+".mi-settings-overscan": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c4"
+}
+".mi-settings-phone": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c5"
+}
+".mi-settings-power": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c6"
+}
+".mi-settings-remote": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c7"
+}
+".mi-settings-system-daydream": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1c3"
+}
+".mi-settings-voice": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c8"
+}
+".mi-share": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue80d"
+}
+".mi-shop": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8c9"
+}
+".mi-shop-two": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ca"
+}
+".mi-shopping-basket": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8cb"
+}
+".mi-shopping-cart": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8cc"
+}
+".mi-shuffle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue043"
+}
+".mi-signal-cellular-4-bar": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1c8"
+}
+".mi-signal-cellular-connected-no-internet-4-bar": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1cd"
+}
+".mi-signal-cellular-no-sim": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1ce"
+}
+".mi-signal-cellular-null": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1cf"
+}
+".mi-signal-cellular-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1d0"
+}
+".mi-signal-wifi-4-bar": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1d8"
+}
+".mi-signal-wifi-4-bar-lock": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1d9"
+}
+".mi-signal-wifi-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1da"
+}
+".mi-sim-card": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue32b"
+}
+".mi-sim-card-alert": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue624"
+}
+".mi-skip-next": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue044"
+}
+".mi-skip-previous": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue045"
+}
+".mi-slideshow": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue41b"
+}
+".mi-smartphone": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue32c"
+}
+".mi-sms": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue625"
+}
+".mi-sms-failed": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue626"
+}
+".mi-snooze": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue046"
+}
+".mi-sort": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue164"
+}
+".mi-sort-by-alpha": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue053"
+}
+".mi-space-bar": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue256"
+}
+".mi-speaker": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue32d"
+}
+".mi-speaker-group": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue32e"
+}
+".mi-speaker-notes": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8cd"
+}
+".mi-speaker-phone": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d2"
+}
+".mi-spellcheck": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ce"
+}
+".mi-star": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue838"
+}
+".mi-star-border": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue83a"
+}
+".mi-star-half": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue839"
+}
+".mi-stars": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d0"
+}
+".mi-stay-current-landscape": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d3"
+}
+".mi-stay-current-portrait": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d4"
+}
+".mi-stay-primary-landscape": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d5"
+}
+".mi-stay-primary-portrait": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d6"
+}
+".mi-stop": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue047"
+}
+".mi-storage": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1db"
+}
+".mi-store": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d1"
+}
+".mi-store-mall-directory": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue563"
+}
+".mi-straighten": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue41c"
+}
+".mi-strikethrough-s": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue257"
+}
+".mi-style": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue41d"
+}
+".mi-subject": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d2"
+}
+".mi-subtitles": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue048"
+}
+".mi-supervisor-account": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d3"
+}
+".mi-surround-sound": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue049"
+}
+".mi-swap-calls": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d7"
+}
+".mi-swap-horiz": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d4"
+}
+".mi-swap-vert": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d5"
+}
+".mi-swap-vertical-circle": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d6"
+}
+".mi-switch-camera": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue41e"
+}
+".mi-switch-video": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue41f"
+}
+".mi-sync": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue627"
+}
+".mi-sync-disabled": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue628"
+}
+".mi-sync-problem": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue629"
+}
+".mi-system-update": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue62a"
+}
+".mi-system-update-alt": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d7"
+}
+".mi-tab": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d8"
+}
+".mi-tab-unselected": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8d9"
+}
+".mi-tablet": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue32f"
+}
+".mi-tablet-android": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue330"
+}
+".mi-tablet-mac": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue331"
+}
+".mi-tag-faces": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue420"
+}
+".mi-tap-and-play": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue62b"
+}
+".mi-terrain": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue564"
+}
+".mi-text-format": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue165"
+}
+".mi-textsms": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d8"
+}
+".mi-texture": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue421"
+}
+".mi-theaters": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8da"
+}
+".mi-thumb-down": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8db"
+}
+".mi-thumb-up": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8dc"
+}
+".mi-thumbs-up-down": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8dd"
+}
+".mi-time-to-leave": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue62c"
+}
+".mi-timelapse": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue422"
+}
+".mi-timer": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue425"
+}
+".mi-timer-10": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue423"
+}
+".mi-timer-3": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue424"
+}
+".mi-timer-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue426"
+}
+".mi-toc": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8de"
+}
+".mi-today": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8df"
+}
+".mi-toll": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e0"
+}
+".mi-tonality": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue427"
+}
+".mi-toys": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue332"
+}
+".mi-track-changes": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e1"
+}
+".mi-traffic": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue565"
+}
+".mi-transform": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue428"
+}
+".mi-translate": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e2"
+}
+".mi-trending-down": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e3"
+}
+".mi-trending-flat": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e4"
+}
+".mi-trending-up": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e5"
+}
+".mi-tune": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue429"
+}
+".mi-turned-in": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e6"
+}
+".mi-turned-in-not": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e7"
+}
+".mi-tv": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue333"
+}
+".mi-undo": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue166"
+}
+".mi-unfold-less": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d6"
+}
+".mi-unfold-more": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue5d7"
+}
+".mi-usb": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1e0"
+}
+".mi-verified-user": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e8"
+}
+".mi-vertical-align-bottom": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue258"
+}
+".mi-vertical-align-center": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue259"
+}
+".mi-vertical-align-top": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue25a"
+}
+".mi-vibration": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue62d"
+}
+".mi-video-library": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue04a"
+}
+".mi-videocam": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue04b"
+}
+".mi-videocam-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue04c"
+}
+".mi-view-agenda": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8e9"
+}
+".mi-view-array": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ea"
+}
+".mi-view-carousel": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8eb"
+}
+".mi-view-column": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ec"
+}
+".mi-view-comfy": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue42a"
+}
+".mi-view-compact": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue42b"
+}
+".mi-view-day": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ed"
+}
+".mi-view-headline": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ee"
+}
+".mi-view-list": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ef"
+}
+".mi-view-module": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f0"
+}
+".mi-view-quilt": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f1"
+}
+".mi-view-stream": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f2"
+}
+".mi-view-week": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f3"
+}
+".mi-vignette": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue435"
+}
+".mi-visibility": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f4"
+}
+".mi-visibility-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f5"
+}
+".mi-voice-chat": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue62e"
+}
+".mi-voicemail": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0d9"
+}
+".mi-volume-down": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue04d"
+}
+".mi-volume-mute": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue04e"
+}
+".mi-volume-off": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue04f"
+}
+".mi-volume-up": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue050"
+}
+".mi-vpn-key": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue0da"
+}
+".mi-vpn-lock": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue62f"
+}
+".mi-wallpaper": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1bc"
+}
+".mi-warning": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue002"
+}
+".mi-watch": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue334"
+}
+".mi-wb-auto": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue42c"
+}
+".mi-wb-cloudy": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue42d"
+}
+".mi-wb-incandescent": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue42e"
+}
+".mi-wb-iridescent": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue436"
+}
+".mi-wb-sunny": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue430"
+}
+".mi-wc": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue63d"
+}
+".mi-web": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue051"
+}
+".mi-whatshot": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue80e"
+}
+".mi-widgets": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1bd"
+}
+".mi-wifi": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue63e"
+}
+".mi-wifi-lock": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1e1"
+}
+".mi-wifi-tethering": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue1e2"
+}
+".mi-work": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8f9"
+}
+".mi-wrap-text": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue25b"
+}
+".mi-youtube-searched-for": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8fa"
+}
+".mi-zoom-in": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue8ff"
+}
+".mi-zoom-out": {
+font: {
+  fontFamily: "MaterialIcons"
+},
+text: "\ue900"
+}
