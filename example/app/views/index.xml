@@ -1,24 +1,24 @@
 <Alloy>
   <Window class="container lo-vertical" title="Material Icons">
     <View class="h-size w-fill lo-horizontal t-10">
-      <Label class="mi-home h-size w-size l-10" />
-      <Label class="l-10">.mi-home</Label>
+      <Label class="mi l-10" text="home" />
+      <Label class="l-10">home</Label>
     </View>
     <View class="h-size w-fill lo-horizontal t-5">
-      <Label class="mi-airline-seat-flat h-size w-size l-10" />
-      <Label class="l-10">.mi-airline-seat-flat</Label>
+      <Label class="mi l-10">airline_seat_flat</Label>
+      <Label class="l-10">airline_seat_flat</Label>
     </View>
     <View class="h-size w-fill lo-horizontal t-5">
-      <Label class="mi-grade h-size w-size l-10" />
-      <Label class="l-10">.mi-grade</Label>
+      <Label class="mi l-10">grade</Label>
+      <Label class="l-10">grade</Label>
     </View>
     <View class="h-size w-fill lo-horizontal t-5">
-      <Label class="mi-headset h-size w-size l-10" />
-      <Label class="l-10">.mi-headset</Label>
+      <Label class="mi l-10">headset</Label>
+      <Label class="l-10">headset</Label>
     </View>
     <View class="h-size w-fill lo-horizontal t-5">
-      <Label class="mi-contact-phone h-size w-size l-10" />
-      <Label class="l-10">.mi-contact-phone</Label>
+      <Label class="mi l-10">contact_phone</Label>
+      <Label class="l-10">mi-contact_phone</Label>
     </View>
   </Window>
 </Alloy>
