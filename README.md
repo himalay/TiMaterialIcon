@@ -3,23 +3,36 @@
 
 ## Features
 * Super easy to use.
-* Simply drop the tss file into `/app/styles/` and MaterialIcons.ttf into `/app/assets/fonts/`.
-* Add Icons with a simple class name.
-* Find icons you like from [Google Material Icons](https://www.google.com/design/icons/) and just prefix `mi-` to the ican name your like as a class name. eg. `<Label class="mi-favorite"/>`
-* Scale to any size, give it any color.
+* Simply pate following style into `/app/styles/app.tss` and MaterialIcons.ttf into `/app/assets/fonts/`. Now just add `mi` class to the text-based UI element and you are done.
+    ```
+        ".mi[platform=android]": {
+            font: {
+              fontFamily: "MaterialIcons"
+            }
+        }
+
+        ".mi[platform=ios]": {
+            font: {
+              fontFamily: "Material Icons"
+            }
+        }
+    ```
+* Find icons you like from [Google Material Icons](https://www.google.com/design/icons/) and just replace space with underscore or refer to this [codepoints](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/codepoints). eg. `<Label class="mi">thumb_up</Label>`
+* Scale to any size and give it any color.
 * Works on Android, iOS
-* Works with other fonts or font-icons.
 
 ## Example
-![Imgur](http://i.imgur.com/RIBS4W5.png)
+![Imgur](http://i.imgur.com/Z0aZOyv.png)
 * [Example App](https://github.com/himalay/TiMaterialIcon/example)
 
 ## Show me how?
-* Download the `app.tss` from [here](https://github.com/himalay/TiMaterialIcon/app.tss) and the `MaterialIcons.ttf` from [here](https://github.com/himalay/TiMaterialIcon/MaterialIcons.ttf).
-* Place `app.tss` into `projectFolder/app/styles/` and `MaterialIcons.ttf` into `projectFolder/app/assets/fonts/`.
+* Paste content of `app.tss` from [here](https://github.com/himalay/TiMaterialIcon/app.tss) to `/app/styles/app.tss`.
+* Move `MaterialIcons.ttf` from [here](https://github.com/himalay/TiMaterialIcon/MaterialIcons.ttf) into `/app/assets/fonts/`.
+* Find icons you want from [Google Material Icons](https://www.google.com/design/icons/) and just replace space with underscore or refer to this [codepoints](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/codepoints).
 * Annnd that's it. Start useing it.
 ```
   <View layout="horizontal">
-	 <Label class="mi-home"/><Label>I am the Google Material home icon.</Label>
+	 <Label class="mi">home</Label>
+   <Label>I am the Google Material home icon.</Label>
   </View>
 ```
