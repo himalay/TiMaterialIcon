@@ -5,17 +5,12 @@
 * Super easy to use.
 * Simply pate following style into `/app/styles/app.tss` and MaterialIcons.ttf into `/app/assets/fonts/`. Now just add `mi` class to the text-based UI element and you are done.
     ```
-        ".mi[platform=android]": {
-            font: {
-              fontFamily: "MaterialIcons"
-            }
-        }
+        ".mi": {
+                font: {
+                        fontFamily: "Material Icons"
+	        }
+	}
 
-        ".mi[platform=ios]": {
-            font: {
-              fontFamily: "Material Icons"
-            }
-        }
     ```
 * Find icons you like from [Google Material Icons](https://www.google.com/design/icons/) and just replace space with underscore or refer to this [codepoints](https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/codepoints). eg. `<Label class="mi">thumb_up</Label>`
 * Scale to any size and give it any color.

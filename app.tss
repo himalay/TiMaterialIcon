@@ -1,10 +1,4 @@
-".mi[platform=android]": {
-	font: {
-	  fontFamily: "MaterialIcons"
-	}
-}
-
-".mi[platform=ios]": {
+".mi": {
 	font: {
 	  fontFamily: "Material Icons"
 	}
